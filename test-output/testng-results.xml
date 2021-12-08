@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3380" started-at="2021-12-07T23:55:12 EST" finished-at="2021-12-07T23:55:15 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3380" started-at="2021-12-07T23:55:12 EST" finished-at="2021-12-07T23:55:15 EST">
+      <class name="reqres.TestApi">
+        <test-method status="PASS" signature="reqResGetUsers()[pri:0, instance:reqres.TestApi@1e965684]" name="reqResGetUsers" duration-ms="3342" started-at="2021-12-07T23:55:12 EST" finished-at="2021-12-07T23:55:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reqResGetUsers -->
+      </class> <!-- reqres.TestApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
